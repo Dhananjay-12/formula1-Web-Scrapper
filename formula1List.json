@@ -1,0 +1,178 @@
+[
+  {
+    "rank": "1",
+    "points": "454",
+    "firstName": "Max",
+    "lastName": "Verstappen",
+    "team": "Red Bull Racing",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/M/MAXVER01_Max_Verstappen/maxver01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "2",
+    "points": "308",
+    "firstName": "Charles",
+    "lastName": "Leclerc",
+    "team": "Ferrari",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/C/CHALEC01_Charles_Leclerc/chalec01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "3",
+    "points": "305",
+    "firstName": "Sergio",
+    "lastName": "Perez",
+    "team": "Red Bull Racing",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/S/SERPER01_Sergio_Perez/serper01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "4",
+    "points": "275",
+    "firstName": "George",
+    "lastName": "Russell",
+    "team": "Mercedes",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/G/GEORUS01_George_Russell/georus01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "5",
+    "points": "246",
+    "firstName": "Carlos",
+    "lastName": "Sainz",
+    "team": "Ferrari",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/C/CARSAI01_Carlos_Sainz/carsai01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "6",
+    "points": "240",
+    "firstName": "Lewis",
+    "lastName": "Hamilton",
+    "team": "Mercedes",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/L/LEWHAM01_Lewis_Hamilton/lewham01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "7",
+    "points": "122",
+    "firstName": "Lando",
+    "lastName": "Norris",
+    "team": "McLaren",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANNOR01_Lando_Norris/lannor01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "8",
+    "points": "92",
+    "firstName": "Esteban",
+    "lastName": "Ocon",
+    "team": "Alpine",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/E/ESTOCO01_Esteban_Ocon/estoco01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "9",
+    "points": "81",
+    "firstName": "Fernando",
+    "lastName": "Alonso",
+    "team": "Alpine",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/F/FERALO01_Fernando_Alonso/feralo01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "10",
+    "points": "49",
+    "firstName": "Valtteri",
+    "lastName": "Bottas",
+    "team": "Alfa Romeo",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/V/VALBOT01_Valtteri_Bottas/valbot01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "11",
+    "points": "37",
+    "firstName": "Daniel",
+    "lastName": "Ricciardo",
+    "team": "McLaren",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/D/DANRIC01_Daniel_Ricciardo/danric01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "12",
+    "points": "37",
+    "firstName": "Sebastian",
+    "lastName": "Vettel",
+    "team": "Aston Martin",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/S/SEBVET01_Sebastian_Vettel/sebvet01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "13",
+    "points": "25",
+    "firstName": "Kevin",
+    "lastName": "Magnussen",
+    "team": "Haas F1 Team",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/K/KEVMAG01_Kevin_Magnussen/kevmag01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "14",
+    "points": "23",
+    "firstName": "Pierre",
+    "lastName": "Gasly",
+    "team": "AlphaTauri",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/P/PIEGAS01_Pierre_Gasly/piegas01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "15",
+    "points": "18",
+    "firstName": "Lance",
+    "lastName": "Stroll",
+    "team": "Aston Martin",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/L/LANSTR01_Lance_Stroll/lanstr01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "16",
+    "points": "12",
+    "firstName": "Mick",
+    "lastName": "Schumacher",
+    "team": "Haas F1 Team",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/M/MICSCH02_Mick_Schumacher/micsch02.png.transform/2col/image.png"
+  },
+  {
+    "rank": "17",
+    "points": "12",
+    "firstName": "Yuki",
+    "lastName": "Tsunoda",
+    "team": "AlphaTauri",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/Y/YUKTSU01_Yuki_Tsunoda/yuktsu01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "18",
+    "points": "6",
+    "firstName": "Guanyu",
+    "lastName": "Zhou",
+    "team": "Alfa Romeo",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/G/GUAZHO01_Guanyu_Zhou/guazho01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "19",
+    "points": "4",
+    "firstName": "Alexander",
+    "lastName": "Albon",
+    "team": "Williams",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/A/ALEALB01_Alexander_Albon/alealb01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "20",
+    "points": "2",
+    "firstName": "Nicholas",
+    "lastName": "Latifi",
+    "team": "Williams",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/N/NICLAF01_Nicholas_Latifi/niclaf01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "21",
+    "points": "2",
+    "firstName": "Nyck",
+    "lastName": "De Vries",
+    "team": "Williams",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/N/NYCDEV01_Nyck_De%20Vries/nycdev01.png.transform/2col/image.png"
+  },
+  {
+    "rank": "22",
+    "points": "0",
+    "firstName": "Nico",
+    "lastName": "Hulkenberg",
+    "team": "Aston Martin",
+    "photos": "https://www.formula1.com/content/dam/fom-website/drivers/N/NICHUL01_Nico_Hulkenberg/nichul01.png.transform/2col/image.png"
+  }
+]
